@@ -1,0 +1,12 @@
+name: nir_prop
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - matplotlib
+  - notebook
+  - numpy
+  - pandas
+  - scikit-learn
+  - seaborn
+  - shap
