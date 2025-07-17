@@ -27,8 +27,8 @@ Materials Science and Engineering Division
 Material Measurement Laboratory  
 National Institute of Standards and Technology  
 
-Email: sara.orski@nist.gov
-ORCiD: 0000-0002-3455-0866
+Email: sara.orski@nist.gov  
+ORCiD: 0000-0002-3455-0866  
 Staff website: https://www.nist.gov/people/sara-orski  
 
 # How to cite
