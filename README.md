@@ -38,7 +38,8 @@ Material Measurement Laboratory
 National Institute of Standards and Technology  
 
 Email: Debra.Audus@nist.gov  
-GitHubID: @debraaudus  
+GitHubID: @debraaudus
+ORCID: 0000-0002-5937-7721
 Staff website: <https://www.nist.gov/people/debra-audus>  
 
 # How to cite
